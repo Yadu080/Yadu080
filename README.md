@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI projects**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **anything**
 
