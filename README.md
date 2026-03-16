@@ -1,87 +1,113 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yadu%20%7C%20AI%20Developer%20🚀&fontAlign=50&fontAlignY=40&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yadu%20%7C%20AI%20Developer%20🚀&fontAlign=50&fontAlignY=40&color=gradient"/>
 
-<h1 align="center">Hey there 👋 I'm Yadu</h1>
-<h3 align="center">AI Developer • Full Stack Builder • Problem Solver</h3>
+<h1 align="center">Hey 👋 I'm Yadu</h1>
+<h3 align="center">AI Developer • Machine Learning Explorer • Software Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Explorer;Building+Real+World+Projects;Open+Source+Learner;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Building+AI+Tools;Open+Source+Contributor;Future+AI+Engineer"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
-💡 Curious developer passionate about **AI, Machine Learning, and building useful systems**
+🎓 Computer Science student passionate about **Artificial Intelligence and Software Engineering**
 
-🎓 Computer Science student exploring  
-• Artificial Intelligence  
-• Machine Learning  
-• Full Stack Development  
+💡 I enjoy building **AI-powered systems that solve real-world problems**
 
-🔬 Currently experimenting with  
+🔬 Current interests
 
-- **AI Assistants**
-- **Retrieval Augmented Generation (RAG)**
-- **Vector Databases & Embeddings**
-- **AI tools for developers**
+- Artificial Intelligence
+- Machine Learning
+- AI Developer Tools
+- Intelligent Systems
 
-🌱 Always learning something new.
+⚡ I focus on **building practical AI systems rather than only theoretical models.**
 
 ---
 
-# 🧠 Current Focus
+# 🚀 Featured Project
 
-🚜 **Project Kisan**  
-AI-powered assistant designed to help farmers with intelligent insights.
+## 🤖 AI-Codebase-Analyzer
 
-🤖 **AI Codebase Analyzer**  
-Tool that understands repositories using  
-embeddings + FAISS + LLM reasoning.
+An **AI-powered tool designed to help developers understand complex repositories.**
 
-🌿 **Toxic Plant Identification**  
-Machine learning system to identify poisonous plants.
+### Problem
+Developers often struggle to understand large unfamiliar codebases.
 
-🏥 **Mentcare Patient Management System**  
-Full-stack healthcare management system.
+### Solution
+AI-Codebase-Analyzer analyzes the repository and generates **context-aware explanations of the code.**
+
+### Key Capabilities
+
+✔ Code structure analysis  
+✔ Intelligent file retrieval  
+✔ Context-aware explanations  
+✔ Developer-friendly insights  
+
+### Technologies Used
+
+- Python
+- Embeddings
+- Vector Search
+- LLM-based reasoning
 
 ---
 
-# 🛠 Tech Stack
+# 🧩 Projects
 
-### 💻 Languages
+## 🤖 AI-Codebase-Analyzer
+AI tool that analyzes repositories and explains code intelligently.
 
-<p>
+## 🧠 Parkinson's Disease Detection
+Machine learning model that predicts **Parkinson's disease using biomedical voice measurements.**
+
+Focus:
+- Data preprocessing
+- Feature selection
+- ML classification models
+
+## 🧩 Early Autism Detection
+Machine learning model designed for **early autism screening using behavioral datasets.**
+
+Focus:
+- Predictive classification
+- Healthcare AI applications
+- Early diagnosis assistance
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
 </p>
 
-### 🌐 Web Development
+---
 
-<p>
+## Web Development
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
 </p>
 
-### 🧠 AI / Data
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
+## Tools & Technologies
 
-### ⚙️ Tools
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yadu080&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu080&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -94,33 +120,25 @@ Full-stack healthcare management system.
 
 ---
 
-# 🏆 Achievements
+# 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yadu080&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadu080&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧩 Featured Projects
+# 🏆 GitHub Achievements
 
-### 🤖 AI Codebase Analyzer
-AI tool that understands software repositories and answers questions about the code.
-
-### 🚜 Project Kisan
-AI-powered assistant for farmers using modern AI technologies.
-
-### 🌿 Toxic Plant Identification
-Machine learning model for identifying poisonous plants.
-
-### 🏥 Mentcare System
-Patient management system with appointments and doctor management.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yadu080&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
 # 🌍 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Yadu080">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -138,19 +156,14 @@ Patient management system with appointments and doctor management.
 
 ---
 
-# ⚡ Fun Developer Fact
+# ⚡ Developer Philosophy
 
-> “The best way to learn AI is not by reading papers —  
-> it's by **building things that actually work.**”
+> "The best way to master Artificial Intelligence is by building systems that solve real problems."
 
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Yadu080&color=blue&style=flat"/>
-
-⭐ **If you like my work, consider starring my repositories!**
-
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
