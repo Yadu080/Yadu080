@@ -1,29 +1,156 @@
-<h1 align="center">Hi 👋, I'm Yadunandan M Nimbalkar</h1>
-<h3 align="center">AI-ML Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Yadu%20%7C%20AI%20Developer%20🚀&fontAlign=50&fontAlignY=40&color=gradient"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadu080&label=Profile%20views&color=0e75b6&style=flat" alt="yadu080" /> </p>
+<h1 align="center">Hey there 👋 I'm Yadu</h1>
+<h3 align="center">AI Developer • Full Stack Builder • Problem Solver</h3>
 
-- 🌱 I’m currently learning **many things**
-
-- 👯 I’m looking to collaborate on **AI projects**
-
-- 👨‍💻 All of my projects are available here
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **yadunandanmn@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/yadunandan-m-nimbalkar-45950b211/](https://www.linkedin.com/in/yadunandan-m-nimbalkar-45950b211/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yadunandan-m-nimbalkar-45950b211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadunandan-m-nimbalkar-45950b211" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Explorer;Building+Real+World+Projects;Open+Source+Learner;Future+AI+Engineer"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadu080&show_icons=true&locale=en&layout=compact" alt="yadu080" /></p>
+# 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadu080&show_icons=true&locale=en" alt="yadu080" /></p>
+💡 Curious developer passionate about **AI, Machine Learning, and building useful systems**
 
+🎓 Computer Science student exploring  
+• Artificial Intelligence  
+• Machine Learning  
+• Full Stack Development  
+
+🔬 Currently experimenting with  
+
+- **AI Assistants**
+- **Retrieval Augmented Generation (RAG)**
+- **Vector Databases & Embeddings**
+- **AI tools for developers**
+
+🌱 Always learning something new.
+
+---
+
+# 🧠 Current Focus
+
+🚜 **Project Kisan**  
+AI-powered assistant designed to help farmers with intelligent insights.
+
+🤖 **AI Codebase Analyzer**  
+Tool that understands repositories using  
+embeddings + FAISS + LLM reasoning.
+
+🌿 **Toxic Plant Identification**  
+Machine learning system to identify poisonous plants.
+
+🏥 **Mentcare Patient Management System**  
+Full-stack healthcare management system.
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php"/>
+</p>
+
+### 🧠 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yadu080&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yadu080&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadu080&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yadu080&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+### 🤖 AI Codebase Analyzer
+AI tool that understands software repositories and answers questions about the code.
+
+### 🚜 Project Kisan
+AI-powered assistant for farmers using modern AI technologies.
+
+### 🌿 Toxic Plant Identification
+Machine learning model for identifying poisonous plants.
+
+### 🏥 Mentcare System
+Patient management system with appointments and doctor management.
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+
+<a href="https://github.com/Yadu080">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Developer Fact
+
+> “The best way to learn AI is not by reading papers —  
+> it's by **building things that actually work.**”
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yadu080&color=blue&style=flat"/>
+
+⭐ **If you like my work, consider starring my repositories!**
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
