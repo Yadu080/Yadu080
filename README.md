@@ -82,7 +82,7 @@ Focus:
 ## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
+<img src="https://skillicons.dev/icons?i=python,c,java"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ Focus:
 ## Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
