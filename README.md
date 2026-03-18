@@ -77,31 +77,6 @@ Focus:
 
 ---
 
-# 🛠 Technical Skills
-
-## Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
-</p>
-
----
-
-## Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php"/>
-</p>
-
----
-
-## Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
 
 # 📊 GitHub Analytics
 
