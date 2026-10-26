@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title"><title id="title">THE SOURCE-CODE CHALLENGE. Three questions. Pick an answer. Open the code to verify.</title><style>
+      .blink{animation:blink 2.4s steps(2,end) infinite}
+      .float{animation:float 5s ease-in-out infinite}
+      .pulse{animation:pulse 3s ease-in-out infinite}
+      .dash{stroke-dasharray:5 9;animation:dash 8s linear infinite}
+      .scan{animation:scan 7s ease-in-out infinite}
+      .orbit{transform-box:fill-box;transform-origin:center;animation:orbit 40s linear infinite}
+      @keyframes blink{0%,70%,100%{opacity:1}71%,90%{opacity:.2}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes dash{to{stroke-dashoffset:-140}}
+      @keyframes scan{0%,100%{transform:translateY(0);opacity:.15}50%{transform:translateY(125px);opacity:.65}}
+      @keyframes orbit{to{transform:rotate(360deg)}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style><rect x="0" y="0" width="1200" height="100" rx="9" fill="#0c1319" /><rect x="0" y="0" width="5" height="100" rx="0" fill="#b49aff" /><text x="26" y="41" fill="#b49aff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2">03</text><text x="95" y="43" fill="#e6eff3" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="1">THE SOURCE-CODE CHALLENGE</text><text x="95" y="74" fill="#8fa1ad" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="400" >Three questions. Pick an answer. Open the code to verify.</text></svg>
